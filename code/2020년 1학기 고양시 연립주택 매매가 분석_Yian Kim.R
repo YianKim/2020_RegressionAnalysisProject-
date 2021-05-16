@@ -1,5 +1,5 @@
 #회귀프로젝트 전처리1 : 유의미한 데이터만 추출
-setwd('C:/Users/st4ndup/Desktop/Rproject/2020-Regression-Analysis-Project/data')
+setwd('C:/Users/st4ndup/Desktop/Rproject/2020_RegressionAnalysisProject-/data')
 
 library(stringr)
 
